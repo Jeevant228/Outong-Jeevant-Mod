@@ -1,5 +1,5 @@
 label v001:
-
+    # Test comment
     scene black with d
     ". . . . . . . . ."
     $ name = renpy.input("What Is Your Name? (Default Cebong)")
